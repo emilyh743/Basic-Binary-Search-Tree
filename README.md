@@ -8,7 +8,7 @@ A binary search tree (BST) is also called an ordered/sorted binary tree. Binary 
   3) the left and right subtree has to be a binary search tree
   4) no duplicate nodes
 
-Interface: The BST will provide this collection of operations:
+The BST will provide this collection of operations:
 
   insert:
    
